@@ -11,7 +11,10 @@
     "react-scripts": "5.0.1",
     "react-router-dom": "^6.4.2",
     "axios": "^1.1.2",
-    "react-redux": "^8.0.4"
+    "react-redux": "^8.0.4",
+    "react-hook-form": "^7.37.0",
+    "@reduxjs/toolkit": "^1.8.6",
+    "eslint": "^8.25.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.21",

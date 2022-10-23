@@ -1,0 +1,26 @@
+.cards {
+    width: 270px;
+    height: 400px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid gold;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 1px 25px gray;
+    transition: .5s;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.cards:hover {
+    transform: scale(110%);
+}
+
+.name {
+    font-size: 20px;
+}
+
+.rating {
+    font-size: 20px;
+}
